@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly motivated self taught web developer with a passion for coding, proficient and experienced in building websites using React.js, Next.js and Tailwind CSS
+Highly motivated self taught web developer with a passion for coding, proficient and experienced in building websites using React.js, Next.js and Tailwind CSS. Successfully developed several UI clones, including Google, Hulu, WhatsApp and many more which can be viewed below.
 
 
 ## 🌐 Socials:
